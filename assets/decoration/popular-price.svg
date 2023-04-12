@@ -1,0 +1,14 @@
+<svg
+  width="94"
+  height="75"
+  viewBox="0 0 94 75"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <path d="M0 8L14 0V8H0Z" fill="currentColor" />
+  <path d="M0 8L14 0V8H0Z" fill="black" fill-opacity="0.3" />
+  <path
+    d="M57.0836 73.5274C55.1334 74.4587 52.8667 74.4587 50.9164 73.5274L18.0718 57.8419C15.584 56.6538 14 54.142 14 51.3851L14 6.35572e-07L94 7.62939e-06L94 51.3851C94 54.142 92.4161 56.6538 89.9282 57.8419L57.0836 73.5274Z"
+    fill="currentColor"
+  />
+</svg>

@@ -1,0 +1,140 @@
+[
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\AMD Ryzen\\\\Desktop\\\\Partyfinde\\\\front-partyfinder\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_6cf07a48"
+  },
+  {
+    "name": "magic-link",
+    "path": "/magic-link",
+    "component": "C:\\\\Users\\\\AMD Ryzen\\\\Desktop\\\\Partyfinde\\\\front-partyfinder\\\\pages\\\\magic-link\\\\index.vue",
+    "chunkName": "pages/magic-link/index",
+    "_name": "_be96192a"
+  },
+  {
+    "name": "paymentfailure",
+    "path": "/paymentfailure",
+    "component": "C:\\\\Users\\\\AMD Ryzen\\\\Desktop\\\\Partyfinde\\\\front-partyfinder\\\\pages\\\\paymentfailure\\\\index.vue",
+    "chunkName": "pages/paymentfailure/index",
+    "_name": "_cbc581fe"
+  },
+  {
+    "name": "paymentsuccess",
+    "path": "/paymentsuccess",
+    "component": "C:\\\\Users\\\\AMD Ryzen\\\\Desktop\\\\Partyfinde\\\\front-partyfinder\\\\pages\\\\paymentsuccess\\\\index.vue",
+    "chunkName": "pages/paymentsuccess/index",
+    "_name": "_a5f2ca30"
+  },
+  {
+    "name": "privacy-policy",
+    "path": "/privacy-policy",
+    "component": "C:\\\\Users\\\\AMD Ryzen\\\\Desktop\\\\Partyfinde\\\\front-partyfinder\\\\pages\\\\privacy-policy\\\\index.vue",
+    "chunkName": "pages/privacy-policy/index",
+    "_name": "_d700f264"
+  },
+  {
+    "name": "profile",
+    "path": "/profile",
+    "component": "C:\\\\Users\\\\AMD Ryzen\\\\Desktop\\\\Partyfinde\\\\front-partyfinder\\\\pages\\\\profile\\\\index.vue",
+    "chunkName": "pages/profile/index",
+    "children": [
+      {
+        "name": "profile-index-edit",
+        "path": "edit",
+        "component": "C:\\\\Users\\\\AMD Ryzen\\\\Desktop\\\\Partyfinde\\\\front-partyfinder\\\\pages\\\\profile\\\\index\\\\edit.vue",
+        "chunkName": "pages/profile/index/edit",
+        "_name": "_1ef404b0"
+      }
+    ],
+    "_name": "_1eeee2a6"
+  },
+  {
+    "path": "/register",
+    "component": "C:\\\\Users\\\\AMD Ryzen\\\\Desktop\\\\Partyfinde\\\\front-partyfinder\\\\pages\\\\register\\\\index.vue",
+    "chunkName": "pages/register/index",
+    "children": [
+      {
+        "name": "register-index",
+        "path": "",
+        "component": "C:\\\\Users\\\\AMD Ryzen\\\\Desktop\\\\Partyfinde\\\\front-partyfinder\\\\pages\\\\register\\\\index\\\\index.vue",
+        "chunkName": "pages/register/index/index",
+        "_name": "_79fb8240"
+      },
+      {
+        "name": "register-index-details",
+        "path": "details",
+        "component": "C:\\\\Users\\\\AMD Ryzen\\\\Desktop\\\\Partyfinde\\\\front-partyfinder\\\\pages\\\\register\\\\index\\\\details.vue",
+        "chunkName": "pages/register/index/details",
+        "_name": "_5ede7630"
+      },
+      {
+        "name": "register-index-upload-your-photos",
+        "path": "upload-your-photos",
+        "component": "C:\\\\Users\\\\AMD Ryzen\\\\Desktop\\\\Partyfinde\\\\front-partyfinder\\\\pages\\\\register\\\\index\\\\upload-your-photos.vue",
+        "chunkName": "pages/register/index/upload-your-photos",
+        "_name": "_5b0a3891"
+      }
+    ],
+    "_name": "_295fac02"
+  },
+  {
+    "name": "reset-password",
+    "path": "/reset-password",
+    "component": "C:\\\\Users\\\\AMD Ryzen\\\\Desktop\\\\Partyfinde\\\\front-partyfinder\\\\pages\\\\reset-password\\\\index.vue",
+    "chunkName": "pages/reset-password/index",
+    "_name": "_f493b968"
+  },
+  {
+    "name": "profile-change-password",
+    "path": "/profile/change-password",
+    "component": "C:\\\\Users\\\\AMD Ryzen\\\\Desktop\\\\Partyfinde\\\\front-partyfinder\\\\pages\\\\profile\\\\change-password\\\\index.vue",
+    "chunkName": "pages/profile/change-password/index",
+    "_name": "_4c3d11d4"
+  },
+  {
+    "name": "list-type",
+    "path": "/list/:type?",
+    "component": "C:\\\\Users\\\\AMD Ryzen\\\\Desktop\\\\Partyfinde\\\\front-partyfinder\\\\pages\\\\list\\\\_type.vue",
+    "chunkName": "pages/list/_type",
+    "children": [
+      {
+        "name": "list-type-stories-storyId",
+        "path": "stories/:storyId?",
+        "component": "C:\\\\Users\\\\AMD Ryzen\\\\Desktop\\\\Partyfinde\\\\front-partyfinder\\\\pages\\\\list\\\\_type\\\\stories\\\\_storyId.vue",
+        "chunkName": "pages/list/_type/stories/_storyId",
+        "_name": "_47453974"
+      },
+      {
+        "name": "list-type-id",
+        "path": ":id?",
+        "component": "C:\\\\Users\\\\AMD Ryzen\\\\Desktop\\\\Partyfinde\\\\front-partyfinder\\\\pages\\\\list\\\\_type\\\\_id.vue",
+        "chunkName": "pages/list/_type/_id",
+        "_name": "_0a96cbbc"
+      },
+      {
+        "name": "list-type-id.vue",
+        "path": ":id.vue",
+        "component": "C:\\\\Users\\\\AMD Ryzen\\\\Desktop\\\\Partyfinde\\\\front-partyfinder\\\\pages\\\\list\\\\_type\\\\_id.vue\\\\index.vue",
+        "chunkName": "pages/list/_type/_id.vue/index",
+        "_name": "_3ca3cdae"
+      }
+    ],
+    "_name": "_0874d86e"
+  },
+  {
+    "name": "magic-link-magic",
+    "path": "/magic-link/:magic?",
+    "component": "C:\\\\Users\\\\AMD Ryzen\\\\Desktop\\\\Partyfinde\\\\front-partyfinder\\\\pages\\\\magic-link\\\\_magic.vue",
+    "chunkName": "pages/magic-link/_magic",
+    "_name": "_72210765"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\AMD Ryzen\\\\Desktop\\\\Partyfinde\\\\front-partyfinder\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_003fc076"
+  }
+]
